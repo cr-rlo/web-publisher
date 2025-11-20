@@ -101,8 +101,8 @@ header .lnb li a:hover span:after{position: absolute; left:0; bottom: -9px; cont
 .banner ul{display: flex; width: 1180px; margin: 0 auto;}
 .banner ul li{flex: 1; padding: 0 0 0 20px;}
 .banner ul li:first-child{padding: 0;}
-.banner ul li a strong{font-size: 23px; color:#000;}
 .banner ul li a {display: block; padding: 303px 0 0; height:390px; font-size: 14px; color:#3e413d; text-align: center; box-sizing: border-box;}
+.banner ul li a strong{display: block; font-size: 23px; color:#000;}
 .banner ul li:nth-child(1) a{background:url(../../웹디자인/images/bg_business_link01.jpg) no-repeat;}
 .banner ul li:nth-child(2) a{background:url(../../웹디자인/images/bg_business_link02.jpg) no-repeat;}
 .banner ul li:nth-child(3) a{background:url(../../웹디자인/images/bg_business_link03.jpg) no-repeat;}
